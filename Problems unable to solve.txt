@@ -1,0 +1,4 @@
+pset 3 problem 4
+pset 6 problem 4
+pset 8 problem 4
+pset 8 problem 5 this is related to problem 4 so if can solve problem 4 then this is easily solved
